@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Log.i("gitTest","第二次提交的文件内容");
+        Log.i("gitTest","第三次提交的文件内容");
     }
 }
