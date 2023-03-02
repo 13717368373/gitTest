@@ -17,7 +17,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("gitTest","第四次提交的文件内容");
 
-        Log.i("gitTest","测试冲突用_jinhua");
+        Log.i("gitTest","测试冲突用_wenguang");
 
     }
 }
