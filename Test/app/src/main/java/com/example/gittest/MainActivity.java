@@ -16,6 +16,7 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("gitTest","liangjinhua");
         Log.i("gitTest","liangjinhua02");
+        Log.i("gitTest","liangjinhua3333");
 
     }
 }
