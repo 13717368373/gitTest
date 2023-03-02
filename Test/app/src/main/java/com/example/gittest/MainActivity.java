@@ -13,5 +13,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         Log.i("gitTest","第四次提交的文件内容");
+
+        Log.i("gitTest","liangjinhua");
     }
 }
