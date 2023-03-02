@@ -15,5 +15,6 @@ public class MainActivity extends AppCompatActivity {
         Log.i("gitTest","第四次提交的文件内容");
 
         Log.i("gitTest","liangjinhua");
+        Log.i("gitTest","liangjinhua02");
     }
 }
