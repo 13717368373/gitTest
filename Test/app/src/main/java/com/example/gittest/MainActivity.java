@@ -1,9 +1,6 @@
 package com.example.gittest;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.lifecycle.Lifecycle;
-import androidx.lifecycle.LifecycleObserver;
-import androidx.lifecycle.LifecycleOwner;
 
 import android.os.Bundle;
 import android.util.Log;
@@ -17,6 +14,9 @@ public class MainActivity extends AppCompatActivity {
 
         Log.i("gitTest","第四次提交的文件内容");
 
+        Log.i("gitTest","liangjinhua");
+        Log.i("gitTest","liangjinhua02");
+        Log.i("gitTest","liangjinhua3333");
         Log.i("gitTest","测试冲突用_wenguang");
 
     }
