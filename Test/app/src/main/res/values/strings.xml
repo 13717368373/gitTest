@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">gitTest</string>
+    <string name="delete_warning">Do you want to delete the \n currently selected record?</string>
 </resources>
